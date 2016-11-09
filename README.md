@@ -1,2 +1,2 @@
 # hello-world
-exercise programming hello-world with PHP
+exercise programming hello-world with PHP and SQL
